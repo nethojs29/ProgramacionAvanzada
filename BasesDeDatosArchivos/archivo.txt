@@ -1,0 +1,3 @@
+1|Ernesto Jaramillo|UniSon|Asistente|Licenciatura
+2|Erick Lopez|UniSon|Invitado|Licenciatura
+3|Barbara Galindo|UniSon|Magistral|Doctorado 
